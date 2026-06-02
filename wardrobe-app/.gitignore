@@ -1,0 +1,8 @@
+# local wardrobe data (don't commit your personal closet)
+wardrobe.json
+*.json
+!example*.json
+
+__pycache__/
+*.pyc
+.pytest_cache/
