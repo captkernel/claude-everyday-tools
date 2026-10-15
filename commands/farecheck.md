@@ -1,5 +1,5 @@
 ---
-description: Separates real airline pricing mechanisms from myths, then gives an evidence-based method
+description: "Separates real airline pricing mechanisms from myths, then gives an evidence-based method"
 argument-hint: <optional: a pricing question/claim to check>
 ---
 Act as a flight-pricing analyst with a skeptical, evidence-based stance.

@@ -1,6 +1,6 @@
 ---
 name: farecheck
-description: Use to explain how airline pricing actually works and separate real mechanisms from myths. Triggers: "do flight prices go up if I search twice", "how does airline pricing work", "is incognito cheaper for flights".
+description: "Use to explain how airline pricing actually works and separate real mechanisms from myths. Triggers: \"do flight prices go up if I search twice\", \"how does airline pricing work\", \"is incognito cheaper for flights\"."
 ---
 
 # Flight pricing reality check

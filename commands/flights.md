@@ -1,5 +1,5 @@
 ---
-description: Flight-deal scanner — ranks cheaper-routing options by cost and risk (estimates, verify before booking)
+description: "Flight-deal scanner — ranks cheaper-routing options by cost and risk (estimates, verify before booking)"
 argument-hint: <origin to dest, dates, pax/cabin, flexibility>
 ---
 Act as a professional flight-pricing analyst.

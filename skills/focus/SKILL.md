@@ -1,6 +1,6 @@
 ---
 name: focus
-description: Use when the user is stuck and cannot start a task. Triggers: "I can't start", "help me focus", "I'm procrastinating", "break this down", "I'm overwhelmed by".
+description: "Use when the user is stuck and cannot start a task. Triggers: \"I can't start\", \"help me focus\", \"I'm procrastinating\", \"break this down\", \"I'm overwhelmed by\"."
 ---
 
 # Get unstuck

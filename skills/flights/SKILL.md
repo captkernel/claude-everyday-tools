@@ -1,6 +1,6 @@
 ---
 name: flights
-description: Use to find cheaper flight options for a trip. Triggers: "find cheap flights", "cheapest way to fly", "flight deal", "how do I fly cheaper to".
+description: "Use to find cheaper flight options for a trip. Triggers: \"find cheap flights\", \"cheapest way to fly\", \"flight deal\", \"how do I fly cheaper to\"."
 ---
 
 # Flight-deal scanner

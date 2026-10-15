@@ -1,6 +1,6 @@
 ---
 name: learn-fast
-description: Use to create a fast "make me functional" crash plan for a new skill. Triggers: "help me learn X fast", "crash course on", "get me functional in", "I have a few hours to learn".
+description: "Use to create a fast \"make me functional\" crash plan for a new skill. Triggers: \"help me learn X fast\", \"crash course on\", \"get me functional in\", \"I have a few hours to learn\"."
 ---
 
 # Crash-learning plan
