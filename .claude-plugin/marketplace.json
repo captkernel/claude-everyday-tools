@@ -1,0 +1,14 @@
+{
+  "name": "everyday-tools",
+  "owner": {
+    "name": "captKernel",
+    "url": "https://github.com/captkernel"
+  },
+  "description": "Self-hosted marketplace for the everyday-tools plugin. All captKernel plugins: /plugin marketplace add captkernel/plugins",
+  "plugins": [
+    {
+      "name": "everyday-tools",
+      "source": "./"
+    }
+  ]
+}

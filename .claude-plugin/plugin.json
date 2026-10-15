@@ -1,0 +1,21 @@
+{
+  "name": "everyday-tools",
+  "displayName": "Everyday Tools",
+  "version": "1.0.0",
+  "description": "Practical life-admin skills: live-verified cheap flight search, airline pricing myth-buster, one-minute focus steps for stuck tasks, and a four-hour learn-anything plan.",
+  "author": {
+    "name": "captKernel",
+    "url": "https://github.com/captkernel"
+  },
+  "homepage": "https://github.com/captkernel/claude-everyday-tools",
+  "repository": "https://github.com/captkernel/claude-everyday-tools",
+  "license": "MIT",
+  "keywords": [
+    "flights",
+    "travel",
+    "focus",
+    "learning",
+    "productivity"
+  ],
+  "commands": []
+}

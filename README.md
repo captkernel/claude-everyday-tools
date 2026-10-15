@@ -6,6 +6,15 @@ Practical, everyday tools — Claude prompts for life admin, plus a small app.
 - **prompts/** — the full flight-deal pack and the personal-coach pack (focus/executive-function + accelerated learning).
 - **wardrobe-app/** — a "Clueless"-style digital closet + outfit suggester (Python CLI, tested). A standalone bonus app.
 
+## Install
+
+**Claude Code (plugin):**
+```
+/plugin marketplace add captkernel/plugins
+/plugin install everyday-tools@captkernel
+```
+Manual: copy `skills/<name>/` into `~/.claude/skills/`. claude.ai: upload a zip from `skills/dist/`.
+
 ## Use in Claude chat (claude.ai)
 
 These tools are also packaged as **Agent Skills** under `skills/`, so they work in
@@ -24,3 +33,5 @@ project's `.claude/skills/`. The slash commands in `commands/` remain the quick 
 ---
 
 _Curated/built from techniques shared by creators on Instagram (May 2026); marketing hype and inflated stats stripped out. Prompt text is rewritten, not copied; source handles are credited in the pack files._
+
+Maintainers: bump "version" in .claude-plugin/plugin.json on every release, or plugin users never receive the update.
